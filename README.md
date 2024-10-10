@@ -15,6 +15,10 @@ Previously a part of the mod [Secret of Vilmuhn](https://morrowind-modding-with-
 	- `GVMJ_DS1_SnwIce`: A rework of `Tx_BM_snow_rock_01` with the ice-layer instead laid over the vanilla `Tx_land_darkstone01`. Useful for icy mountain-peaks
 - **New AC/SG interior cave set**, based off OAAB's freeform cave set, utilising AC Darkstone textures for a unique spin on Morrowind caves.
 
+![Secret of Vilmunn exterior](https://github.com/MasssiveJuice08/Secret-of-Vilmuhn/blob/main/Screenshots/Nexus%20Page/SOV_02-01-24_preview_00.png?raw=true)
+
+![Secret of Vilmuhn Nord Barrow interior](https://github.com/MasssiveJuice08/Secret-of-Vilmuhn/blob/main/Screenshots/Nexus%20Page/SOV_12-27-2023_int_02.png?raw=true)
+
 ## License
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -33,7 +37,3 @@ This work is licensed under a
 Tamriel_Data: a huge number of assets from Tamriel Rebuilt and Project Tamriel have been adapted for this mod, so an enormous thank you to all the members there for allowing us to adapt these meshes for Secret of Vilmuhn. Some examples are the retextured Nord Barrow set and grassy rocks from SHOTN, or the mountain peak meshes from TR and PC.  
   
 OAAB_Data: a large number of OAAB_Data meshes have also been updated, so a massive thanks also goes to MD and the team. Some examples are the freeform cave meshes and rocks, or the dwarven road
-
-![Secret of Vilmunn exterior](https://github.com/MasssiveJuice08/Secret-of-Vilmuhn/blob/main/Screenshots/Nexus%20Page/SOV_02-01-24_preview_00.png?raw=true)
-
-![Secret of Vilmuhn Nord Barrow interior](https://github.com/MasssiveJuice08/Secret-of-Vilmuhn/blob/main/Screenshots/Nexus%20Page/SOV_12-27-2023_int_02.png?raw=true)
