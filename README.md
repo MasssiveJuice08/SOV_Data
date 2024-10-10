@@ -15,14 +15,13 @@ Previously a part of the mod [Secret of Vilmuhn](https://morrowind-modding-with-
 	- `GVMJ_DS1_SnwIce`: A rework of `Tx_BM_snow_rock_01` with the ice-layer instead laid over the vanilla `Tx_land_darkstone01`. Useful for icy mountain-peaks
 - **New AC/SG interior cave set**, based off OAAB's freeform cave set, utilising AC Darkstone textures for a unique spin on Morrowind caves.
 
-![Secret of Vilmunn exterior](https://github.com/MasssiveJuice08/Secret-of-Vilmuhn/blob/main/Screenshots/Nexus%20Page/SOV_02-01-24_preview_00.png?raw=true)
+![SOV_Data logo](https://github.com/MasssiveJuice08/SOV_Data/blob/main/sov-data-logo.png?raw=true)
 
 ## License
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
